@@ -1,0 +1,7 @@
+
+streamlit
+openai
+pandas
+streamlit-lottie
+requests
+streamlit-javascript
